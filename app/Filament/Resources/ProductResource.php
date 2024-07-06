@@ -144,12 +144,12 @@ class ProductResource extends Resource
                 TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
+                    ->toggleable(isToggledHiddenByDefault: true), //ky funksion e mshef kete fushe nga tabela (mundeson mos mu shfaq)
 
                 TextColumn::make('updated_at')
                     ->dateTime()
                     ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true)
+                    ->toggleable( isToggledHiddenByDefault: true)
             ])
             ->filters([
                 SelectFilter::make('category')
