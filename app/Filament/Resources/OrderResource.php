@@ -36,6 +36,10 @@ class OrderResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-shopping-bag';
 
+    protected static ?int $navigationSort = 5;
+
+
+
     public static function form(Form $form): Form
     {
         return $form
@@ -49,7 +53,7 @@ class OrderResource extends Resource
                             ->preload()
                             ->required(),
 
-                        Select::make('payment_methodd')
+                        Select::make('payment_method')
                             ->options([
                                 'stripe' => 'Stripe',
                                 'pod' => 'Pay on Delivery',
@@ -186,6 +190,7 @@ class OrderResource extends Resource
                     ->money('EUR'),
 
                 TextColumn::make('payment_method')
+                    ->label('payment_method')
                     ->searchable()
                     ->sortable(),
 
