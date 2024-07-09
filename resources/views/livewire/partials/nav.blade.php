@@ -7,7 +7,7 @@
         </a>
         <nav class="mx-6 flex items-center space-x-4 lg:space-x-6">
           <a href="/products" wire:navigate class="text-sm font-medium {{ request()->is('products')? 'text-red-500': ''}}  transition-colors hover:text-black " >Products</a>
-          <a href="/users" class="text-sm font-medium transition-colors hover:text-black" wire:navigate>About</a>
+          <a href="/" class="text-sm font-medium transition-colors hover:text-black" wire:navigate>About</a>
         </nav>
         <div class="ml-auto flex items0center gap-x-4">
           <div class="flex items-center rounded-full bg-black px-4 py-3">
