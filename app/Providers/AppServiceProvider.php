@@ -3,6 +3,8 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+\Illuminate\Support\Facades\Vite::useBuildDirectory('.');
+
 
 class AppServiceProvider extends ServiceProvider
 {
