@@ -37,7 +37,7 @@
             <div class="w-full">
                 <input type="text" id="hero-input" name="hero-input" class="py-3 px-4 block w-full rounded-lg text-sm text-violet-950 hover:text-violet-800  outline-violet-950 focus:ring-blue-500 disabled:opacity-50 disabled:pointer-events-none dark:bg-slate-900 dark:border-transparent dark:text-gray-400 dark:focus:ring-gray-600"  placeholder="Email address"/>
             </div>
-            <a class="w-full sm:w-auto whitespace-nowrap p-3 inline-flex justify-center items-center gap-x-2 text-sm text-violet-950 hover:text-violet-800 font-semibold rounded-lg border border-solid border-violet-100 bg-violet-50  hover:bg-violet-300 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
+            <a class="w-full sm:w-auto whitespace-nowrap p-3 inline-flex justify-center items-center gap-x-2 text-sm text-violet-950 hover:text-violet-800 font-semibold rounded-lg border border-solid  border-violet-200 bg-violet-50  hover:bg-violet-300 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
               Subscribe
             </a>
           </div>

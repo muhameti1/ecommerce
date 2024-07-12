@@ -1,4 +1,4 @@
-<header class="bg-slate-100	 border-b border-gray-250 flex z-50 top-0 flex-wrap md:justify-start md:flex-nowrap w-full text-sm py-3 md:py-0 sticky shadow-md">
+<header class="bg-slate-100	 border-b border-gray-250 flex z-50 top-0 flex-wrap md:justify-start md:flex-nowrap w-full sm:w-auto text-sm py-3 md:py-0 sticky shadow-md">
   <nav class=" max-w-[85rem] w-full mx-auto px-4 md:px-6 lg:px-8" aria-label="Global">
     <div class="relative md:flex md:items-center md:justify-between">
       <div class="flex items-center justify-between">
@@ -40,7 +40,7 @@
               <span class="mr-1 text-violet-950 hover:text-violet-800">Cart</span> <span class="py-0.5 px-1.5 rounded-full text-xs font-medium bg-violet-50 border border-violet-200 text-violet-950	hover:text-violet-800">0</span>
             </a>
             <div class="pt-3 md:pt-0">
-              <a class="py-2.5 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-violet-200 bg-violet-50 text-violet-950 hover:text-violet-800 hover:bg-violet-300 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/login">
+              <a class="py-2.5 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-violet-300 bg-violet-50 text-violet-950 hover:text-violet-800 hover:bg-violet-300 disabled:opacity-50 disabled:pointer-events-none dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/login">
                 <svg class="flex-shrink-0 w-4 h-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
                   <circle cx="12" cy="7" r="4" />
