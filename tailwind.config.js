@@ -11,4 +11,8 @@ export default {
         extend: {},
     },
     plugins: [require("preline/plugin")],
+
+    
 };
+
+
