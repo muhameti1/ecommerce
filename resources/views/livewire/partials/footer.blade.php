@@ -19,7 +19,7 @@
       <!-- End Col -->
 
       <div class="col-span-1">
-        <h4 class="font-bold text-violet-950">Firma</h4>
+        <h4 class="font-bold text-violet-950">Company</h4>
 
         <div class="mt-3 grid space-y-3">
           <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">Wer wir sind</a></p>
