@@ -8,18 +8,18 @@
       <!-- End Col -->
 
       <div class="col-span-1">
-        <h4 class="font-bold text-violet-950">Product</h4>
+        <h4 class="font-bold text-violet-950">Producte</h4>
 
         <div class="mt-3 grid space-y-3">
-          <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/categories">Categories</a></p>
-          <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/products">All Products</a></p>
-          <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/products">Featured Products</a></p>
+          <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/categories">Kategorien</a></p>
+          <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/products">Alle Produkte</a></p>
+          <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/products">Verfügbare Produkte</a></p>
         </div>
       </div>
       <!-- End Col -->
 
       <div class="col-span-1">
-        <h4 class="font-bold text-violet-950">Company</h4>
+        <h4 class="font-bold text-violet-950">Firma</h4>
 
         <div class="mt-3 grid space-y-3">
           <p><a class="inline-flex gap-x-2 text-violet-950 hover:text-violet-800 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">Wer wir sind</a></p>
@@ -54,9 +54,7 @@
       </div>
       <!-- End Col -->
 
-      <!-- Social Brands -->
-     
-      <!-- End Social Brands -->
+    
     </div>
   </div>
 </footer>
