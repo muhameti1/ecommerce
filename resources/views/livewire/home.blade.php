@@ -160,7 +160,7 @@
             <div class="p-20 md:p-5">
               <div class="flex justify-between items-center">
                 <div class="flex items-center">
-                  <img class="h-[2.375rem] w-[2.375rem] rounded-full" src="images/suplement.jpg" alt="Image Description">
+                  <img class="h-[2.375rem] w-[2.375rem] rounded-full" src="images/VioletMedicine.jpg" alt="Image Description">
                   <div class="ms-3">
                     <h3 class="group-hover:text-violet-800 font-semibold text-violet-950 dark:group-hover:text-gray-400 dark:text-gray-200">
                     Nahrungsergänzungsmittel
